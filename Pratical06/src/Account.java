@@ -33,7 +33,7 @@ public void setbalance(double balance){
     this.balance = balance;
 }
 
-public void datecreated(Date datecreated){
+public void setdatecreated(Date datecreated){
     this.datecreated = datecreated;
 }
 //所以就是通过这个double amount来操作这个叫deposit的function
